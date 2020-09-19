@@ -2,7 +2,7 @@
 A simple Tinder clone application developed by Jerry S Joseph. This project demonstrates the method to create responsive UIs using Material UI.
 
 ## About 
-    This library is developed by Jerry S Joseph as an Open-Source project. 
+    This project is developed by Jerry S Joseph as a demostration of Material UI Components. 
 
 ## Demo
 
