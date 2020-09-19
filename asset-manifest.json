@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_tinderClone/static/css/main.3ebeff93.chunk.css",
+    "main.js": "/React_tinderClone/static/js/main.58c98154.chunk.js",
+    "main.js.map": "/React_tinderClone/static/js/main.58c98154.chunk.js.map",
+    "runtime-main.js": "/React_tinderClone/static/js/runtime-main.a28b4230.js",
+    "runtime-main.js.map": "/React_tinderClone/static/js/runtime-main.a28b4230.js.map",
+    "static/js/2.e4e15e19.chunk.js": "/React_tinderClone/static/js/2.e4e15e19.chunk.js",
+    "static/js/2.e4e15e19.chunk.js.map": "/React_tinderClone/static/js/2.e4e15e19.chunk.js.map",
+    "index.html": "/React_tinderClone/index.html",
+    "precache-manifest.462516b3056be2453b96f4ebe2b54c40.js": "/React_tinderClone/precache-manifest.462516b3056be2453b96f4ebe2b54c40.js",
+    "service-worker.js": "/React_tinderClone/service-worker.js",
+    "static/css/main.3ebeff93.chunk.css.map": "/React_tinderClone/static/css/main.3ebeff93.chunk.css.map",
+    "static/js/2.e4e15e19.chunk.js.LICENSE.txt": "/React_tinderClone/static/js/2.e4e15e19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28b4230.js",
+    "static/js/2.e4e15e19.chunk.js",
+    "static/css/main.3ebeff93.chunk.css",
+    "static/js/main.58c98154.chunk.js"
+  ]
+}
